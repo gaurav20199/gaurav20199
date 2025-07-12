@@ -1,7 +1,7 @@
 👋 Hi, I'm Gaurav Joshi
 
 # 💫 About Me:
-I am currently based in Delhi, India, bringing a robust background in software engineering with expertise in Java, Spring Boot, JavaScript and a variety of other technologies.<br><br>🔭 Currently Working On: Enhancing Network Management Systems, focusing mainly on Layer3 and L2VPN.<br>👯 Looking to Collaborate: On open-source projects or innovative tech initiatives that aim to make significant impacts in their fields.<br>⚡ Fun fact There's no place like 127.0.0.1
+I am currently based in Delhi, India, bringing a robust background in software engineering with expertise in Java, Spring Boot, JavaScript and a variety of other technologies.<br><br>🔭 Currently Working On: Enhancing Network Management Systems, focusing mainly on Layer3 and L2VPN.<br>👯 Looking to Collaborate: On open-source projects or innovative tech initiatives that aim to make significant impacts in their fields.<br>⚡ Fun Fact: There's no place like 127.0.0.1
 
 
 ## 🌐 Socials:
